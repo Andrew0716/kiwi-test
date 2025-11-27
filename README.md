@@ -31,6 +31,8 @@
 
 ## ✨ Kiwi Architecture Overview (Lighthouse-Based)
 
+<img width="613" height="403" alt="image" src="https://github.com/user-attachments/assets/e0ffcbdf-0c92-47fe-94f5-7a52b0c572b8" />
+
 Kiwi builds a user-friendly interface layer on top of the powerful open-source Google Lighthouse engine.
 
 | Component | Description |
@@ -49,10 +51,10 @@ Kiwi builds a user-friendly interface layer on top of the powerful open-source G
 
 | Period | Phase | Specific Activities |
 | :--------- | :-------- | :------- |
-| Week 1 | Planning & Design | Market analysis (Google policy changes), Kiwi concept planning, tech stack selection |
-| Week 2 | Frontend Development | User Interface (UI) & User Experience (UX) design, Dashboard and Report View development |
-| Week 3 | Backend Development | Lighthouse Runner integration, user request queue management, report generation & storage API development |
-| Week 4 | Integration & Improvement | Frontend-Backend connection, formatting reports for non-developers, performance optimization, deployment |
+| Day 1 | Planning & Design | Market analysis (Google policy changes), Kiwi concept planning, tech stack selection |
+| Day 2 | Frontend Development | User Interface (UI) & User Experience (UX) design, Dashboard and Report View development |
+| Day 3 | Backend Development | Lighthouse Runner integration, user request queue management, report generation & storage API development |
+| Day 4 | Integration & Improvement | Frontend-Backend connection, formatting reports for non-developers, performance optimization, deployment |
 
 <br>
 
