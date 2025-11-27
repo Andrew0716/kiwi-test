@@ -1,4 +1,4 @@
-# 🥝 Kiwi - Lighthouse for Everyone 💡
+# 🥝 Kiwi 
 
 **A Website Diagnostic Tool Similar to Google Lighthouse (By Kiwi Team)**
 
