@@ -53,8 +53,8 @@ Kiwi builds a user-friendly interface layer on top of the powerful open-source G
 | :--------- | :-------- | :------- |
 | Day 1 | Planning & Design | Market analysis (Google policy changes), Kiwi concept planning, tech stack selection |
 | Day 2 | Frontend Development | User Interface (UI) & User Experience (UX) design, Dashboard and Report View development |
-| Day 3 | Backend Development | Lighthouse Runner integration, user request queue management, report generation & storage API development |
-| Day 4 | Integration & Improvement | Frontend-Backend connection, formatting reports for non-developers, performance optimization, deployment |
+| Day 3 | Backend Development | Prepare for presentation, user request queue management, report generation & storage API development by using Ollama and taking video of Kiwi |
+| Day 4 | Presentation | Presented what we worked on so far |
 
 <br>
 
